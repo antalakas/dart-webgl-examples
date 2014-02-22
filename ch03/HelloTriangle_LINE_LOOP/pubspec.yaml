@@ -1,0 +1,4 @@
+name: HelloTriangle_LINE_LOOP
+description: A sample web application
+dependencies:
+  browser: any

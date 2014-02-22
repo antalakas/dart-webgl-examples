@@ -1,0 +1,4 @@
+name: HelloTriangle_LINES
+description: A sample web application
+dependencies:
+  browser: any

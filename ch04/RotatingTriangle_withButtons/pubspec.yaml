@@ -1,0 +1,4 @@
+name: RotatingTriangle_withButtons
+description: A sample web application
+dependencies:
+  browser: any
